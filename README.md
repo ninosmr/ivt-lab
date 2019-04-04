@@ -1,2 +1,2 @@
 # ivt-lab
-Lab 4 IVT gurba
+Lab 4 IVT gurba a
